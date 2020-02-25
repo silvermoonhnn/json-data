@@ -1,0 +1,13 @@
+/Users/gigaming/Json_Data/obj/Debug/netcoreapp3.1/Json_Data.csprojAssemblyReference.cache
+/Users/gigaming/Json_Data/obj/Debug/netcoreapp3.1/Json_Data.AssemblyInfoInputs.cache
+/Users/gigaming/Json_Data/obj/Debug/netcoreapp3.1/Json_Data.AssemblyInfo.cs
+/Users/gigaming/Json_Data/bin/Debug/netcoreapp3.1/Json_Data
+/Users/gigaming/Json_Data/bin/Debug/netcoreapp3.1/Json_Data.deps.json
+/Users/gigaming/Json_Data/bin/Debug/netcoreapp3.1/Json_Data.runtimeconfig.json
+/Users/gigaming/Json_Data/bin/Debug/netcoreapp3.1/Json_Data.runtimeconfig.dev.json
+/Users/gigaming/Json_Data/bin/Debug/netcoreapp3.1/Json_Data.dll
+/Users/gigaming/Json_Data/bin/Debug/netcoreapp3.1/Json_Data.pdb
+/Users/gigaming/Json_Data/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/gigaming/Json_Data/obj/Debug/netcoreapp3.1/Json_Data.csproj.CopyComplete
+/Users/gigaming/Json_Data/obj/Debug/netcoreapp3.1/Json_Data.dll
+/Users/gigaming/Json_Data/obj/Debug/netcoreapp3.1/Json_Data.pdb
