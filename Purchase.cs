@@ -58,7 +58,7 @@ namespace Json_Data
             var json = File.ReadAllText(path);
             var jsonCon = JsonConvert.DeserializeObject<List<Order>>(json);
 
-            var result = jsonCon.Where(a => a.Items.Sum(b => b.Price * b.Qty) <= 300000).Select(c => c.Customer.Name).Distinct();
+            var result = jsonCon.GroupBy(a => a.Customer.Name).Select(a => new { name = a.First().Customer.Name, total = a.Select(b => b.Items.Sum(c => c.Price * c.Qty)).Sum()}).Where( x => x.total < 300000);
             Console.WriteLine("People who have purchases with grand total lower than 300000 :");
             Console.WriteLine(String.Join(",", result));
         }

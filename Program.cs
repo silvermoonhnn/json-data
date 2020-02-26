@@ -24,12 +24,18 @@ namespace Json_Data
             // Console.WriteLine("");
 
             //02.md
-            
-            Purchase.Febuary();
-            Console.WriteLine("");
-            Purchase.Ari();
-            Console.WriteLine("");
-            Purchase.Grand();
+            // Purchase.Febuary();
+            // Console.WriteLine("");
+            // Purchase.Ari();
+            // Console.WriteLine("");
+            // Purchase.Grand();
+            // Console.WriteLine("");
+
+            //03.md
+            Inventory.Items();
+            Inventory.Electronic();
+            Inventory.Furnitures();
+            Inventory.Brown();
         }
     }
 }
